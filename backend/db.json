@@ -1,0 +1,20 @@
+{
+    "peoples": [
+        {
+            "id":1,
+            "firstname":"John",
+            "lastname":"Doe",   
+            "avatar": "https://i.pravatar.cc/150?img=1",
+            "addrress": "123 Main St, Springfield, USA",
+            "email": "joao@email.com"
+        },
+        {
+            "id":2,
+            "firstname":"Jane",
+            "lastname":"Doe",   
+            "avatar": "https://i.pravatar.cc/150?img=2",
+            "addrress": "456 Elm St, Springfield, USA",
+            "email": "jane@email.com"
+        }
+    ]
+}
