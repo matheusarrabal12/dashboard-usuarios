@@ -15,6 +15,22 @@
             "avatar": "https://i.pravatar.cc/150?img=2",
             "address": "Rua B, 456",
             "email": "maria@email.com"
+        },
+        {
+            "id": 3,
+            "firstName": "Pedro",
+            "lastName": "Oliveira",
+            "avatar": "https://i.pravatar.cc/150?img=3",
+            "address": "Rua C, 789",
+            "email": "Pedro@email.com"
+        },
+        {
+            "id": 4,
+            "firstName": "Ana",
+            "lastName": "Pereira",
+            "avatar": "https://i.pravatar.cc/150?img=4",
+            "address": "Rua D, 101",
+            "email": "ana@email.com"
         }
     ]
 }
